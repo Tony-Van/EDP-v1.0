@@ -43,8 +43,8 @@ Tutorial and demo: [https://github.com/Tony-Van/EDP-v1.0/tree/master]
        The example file is in "EDP_v1.0/input/r_paths.txt".
 ¡¤The following is the input data format:
 	Sample1	Sample2	 <--  Column Name (Do not use special characters)
-	ESR1	AR             <--  Dose-response gene
-	AKT1	TNF
+	ESR1	AR       <--  Dose-response gene
+	AKT1	TNF	 <--  Dose-response gene
 	CYP1A1		 <--  There is no need to fill the rows with NA
 	...		 <--  ...
 
